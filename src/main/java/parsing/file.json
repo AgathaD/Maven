@@ -1,0 +1,16 @@
+{
+  "Subject": "Painters",
+
+  "painter": [
+    {
+      "name": "Claude Monet",
+      "country": "France"
+    },{
+      "name": "Pablo Picasso",
+      "country": "Spain"
+    },{
+      "name": "Michelangelo Buonarroti",
+      "country": "Florence"
+    }
+  ]
+}

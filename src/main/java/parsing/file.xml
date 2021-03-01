@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<painters>
+    <painter nr = "1">
+        <name>Francisco Goya</name>
+        <years>1746-1828</years>
+        <country>Spain</country>
+    </painter>
+
+    <painter nr = "2">
+        <name>Rembrandt</name>
+        <years>1606-1669</years>
+        <country>Dutch Republic</country>
+    </painter>
+
+    <painter nr = "3">
+        <name>Claude Monet</name>
+        <years>1840-1926</years>
+        <country>France</country>
+    </painter>
+    <painter nr = "4">
+    <name>Pablo Picasso</name>
+        <years>1881-1973</years>
+        <country>Spain</country>
+    </painter>
+    <painter nr = "5">
+        <name>Michelangelo Buonarroti</name>
+        <years>1475-1564</years>
+        <country>Florence</country>
+    </painter>
+
+</painters>
